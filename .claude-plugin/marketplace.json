@@ -1,0 +1,16 @@
+{
+  "name": "pomodawd",
+  "owner": {
+    "name": "Sai Rudra"
+  },
+  "metadata": {
+    "description": "A focus timer above the prompt: Clawd works at a desk for 25 minutes, then naps in a hammock for 5; each finished session adds a ring to the tree. /pomodawd start | break | stop, /pomodawd alone shows or hides it."
+  },
+  "plugins": [
+    {
+      "name": "pomodawd",
+      "source": "./",
+      "description": "A focus timer above the prompt: Clawd works at a desk for 25 minutes, then naps in a hammock for 5; each finished session adds a ring to the tree. /pomodawd start | break | stop, /pomodawd alone shows or hides it."
+    }
+  ]
+}

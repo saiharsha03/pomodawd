@@ -1,0 +1,13 @@
+{
+  "name": "pomodawd",
+  "version": "0.1.0",
+  "description": "A focus timer above the prompt: Clawd works at a desk for 25 minutes, then naps in a hammock for 5; each finished session adds a ring to the tree. /pomodawd start | break | stop, /pomodawd alone shows or hides it.",
+  "author": {
+    "name": "Sai Rudra"
+  },
+  "types": "./types/index.d.ts",
+  "displayName": "Pomodawd",
+  "homepage": "https://github.com/saiharsha03/pomodawd",
+  "repository": "https://github.com/saiharsha03/pomodawd",
+  "license": "MIT"
+}
